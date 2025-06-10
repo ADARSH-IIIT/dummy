@@ -1,0 +1,38 @@
+git remote -v -------> to list all git remote repos with their orighin name 
+
+we can hae multiple origins 
+
+
+
+adding new 
+
+
+git remote add origin1   link.git
+
+git remote add origin2   newlink.git
+
+
+
+
+
+/// edit existing one 
+
+
+git remote set-url   origin1  newnewurl.git 
+
+
+
+
+
+
+
+
+git branch -M main
+ass cefault brach in github is main , that why rename master to main 
+
+
+
+
+
+
+git poush origin main   ----->>>> push all commits versions and data of main branch to link accociaated with origin 
